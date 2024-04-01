@@ -1,2 +1,2 @@
-# Lab-2
+# ecommerce-app
 Mern stack Ecommerce App
